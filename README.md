@@ -1,2 +1,2 @@
-# FinalHomework
-This is where I upload all my final homework submissions
+# Kickstart My Chart
+This is my Week 1 homework submission
